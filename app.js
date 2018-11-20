@@ -10,7 +10,7 @@ var config = {
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lek3HsUAAAAAHqyW0IfYyy9TcfxCTmiAI7Boxe1',  // <----- EDIT ME!
-  redirect_uri: 'https://Supreme-dice.github.io',
+  redirect_uri: 'https://alexFrost9494-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',

@@ -6,7 +6,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 2668,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Untitled Dice',
+  app_name: 'Supreme Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lek3HsUAAAAAHqyW0IfYyy9TcfxCTmiAI7Boxe1',  // <----- EDIT ME!
